@@ -1,0 +1,31 @@
+Title: Warfarin Drug Interactions — Clinical Reference
+Source: Based on BNF, Stockley's Drug Interactions, MHRA guidance
+
+MECHANISM: Vitamin K antagonist — inhibits clotting factors II, VII, IX, X
+THERAPEUTIC RANGE: INR 2.0-3.0 (AF, DVT, PE); INR 2.5-3.5 (mechanical heart valve)
+
+DRUGS THAT INCREASE INR (bleeding risk):
+
+CYP2C9 inhibitors (major pathway for warfarin metabolism):
+- Amiodarone: INR can double within 2 weeks; reduce warfarin dose 30-50%
+- Fluconazole/metronidazole: significant INR elevation; avoid or monitor closely
+- Ciprofloxacin: reduces Vitamin K-producing gut flora + CYP inhibition
+- Co-trimoxazole: potent interaction; check INR within 3 days of starting
+
+Antiplatelet/anticoagulant additive risk:
+- Aspirin >100mg/day: additive bleeding; avoid unless benefit outweighs risk
+- NSAIDs (ibuprofen, naproxen, diclofenac): platelet inhibition + GI mucosal damage
+- SSRIs: inhibit platelet 5-HT2A receptors; additive bleeding risk
+
+DRUGS THAT DECREASE INR (clot risk):
+
+CYP2C9 inducers:
+- Rifampicin: most potent inducer; INR can halve within 5-7 days of starting
+- Carbamazepine/phenytoin: significant induction; monitor weekly when starting
+- St John's Wort: OTC herbal — patients often do not report; always ask
+
+MONITORING RULES:
+- Check INR within 3-5 days of adding/stopping ANY interacting drug
+- Re-check at 1 week and 1 month after any dose change
+- Educate patients: consistent Vitamin K diet, report new medications
+- Signs of over-anticoagulation: unusual bruising, prolonged bleeding, blood in urine/stool

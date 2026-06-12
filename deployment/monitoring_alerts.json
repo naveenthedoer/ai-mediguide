@@ -1,0 +1,76 @@
+{
+  "alerts": [
+    {
+      "displayName": "MediGuide — High query latency",
+      "description": "End-to-end query latency exceeds 30 seconds. Indicates retrieval or LLM bottleneck.",
+      "conditions": [
+        {
+          "displayName": "query_latency_ms > 30000",
+          "conditionThreshold": {
+            "filter": "metric.type=\"custom.googleapis.com/mediguide/query_latency_ms\"",
+            "comparison": "COMPARISON_GT",
+            "thresholdValue": 30000,
+            "duration": "60s",
+            "aggregations": [
+              {
+                "alignmentPeriod": "60s",
+                "perSeriesAligner": "ALIGN_PERCENTILE_99"
+              }
+            ]
+          }
+        }
+      ],
+      "alertStrategy": {"autoClose": "604800s"},
+      "combiner": "OR",
+      "severity": "WARNING"
+    },
+    {
+      "displayName": "MediGuide — Red flags spike",
+      "description": "More than 10 red flags detected in 5 minutes. May indicate corpus or prompt issue causing false positives.",
+      "conditions": [
+        {
+          "displayName": "red_flags_detected > 10 in 5m",
+          "conditionThreshold": {
+            "filter": "metric.type=\"custom.googleapis.com/mediguide/red_flags_detected\"",
+            "comparison": "COMPARISON_GT",
+            "thresholdValue": 10,
+            "duration": "300s",
+            "aggregations": [
+              {
+                "alignmentPeriod": "300s",
+                "perSeriesAligner": "ALIGN_RATE"
+              }
+            ]
+          }
+        }
+      ],
+      "alertStrategy": {"autoClose": "604800s"},
+      "combiner": "OR",
+      "severity": "WARNING"
+    },
+    {
+      "displayName": "MediGuide — Low confidence responses",
+      "description": "Mean confidence score below 0.4 over 10 minutes. Indicates retrieval quality degradation.",
+      "conditions": [
+        {
+          "displayName": "mean confidence_score < 0.4",
+          "conditionThreshold": {
+            "filter": "metric.type=\"custom.googleapis.com/mediguide/confidence_score\"",
+            "comparison": "COMPARISON_LT",
+            "thresholdValue": 0.4,
+            "duration": "600s",
+            "aggregations": [
+              {
+                "alignmentPeriod": "600s",
+                "perSeriesAligner": "ALIGN_MEAN"
+              }
+            ]
+          }
+        }
+      ],
+      "alertStrategy": {"autoClose": "604800s"},
+      "combiner": "OR",
+      "severity": "CRITICAL"
+    }
+  ]
+}

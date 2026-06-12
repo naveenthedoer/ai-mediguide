@@ -1,0 +1,41 @@
+Title: Acute Chest Pain Assessment and Management
+Source: Based on NICE NG185, ESC NSTEMI Guidelines 2020, Surviving Sepsis
+
+IMMEDIATE ASSESSMENT — first 10 minutes:
+1. 12-lead ECG (within 10 minutes of presentation)
+2. IV access + bloods: FBC, U&E, troponin (high-sensitivity), coagulation, lipids, glucose
+3. Observations: BP both arms, HR, SpO2, RR, temperature
+4. Brief focused history: character, onset, radiation, associated symptoms
+
+RED FLAGS requiring immediate intervention:
+- ST elevation ≥1mm in ≥2 contiguous leads → STEMI: activate PPCI pathway immediately
+- New LBBB with chest pain → treat as STEMI
+- Haemodynamic instability (SBP <90, HR >100)
+- Signs of acute pulmonary oedema
+- Suspected aortic dissection: tearing pain to back, BP differential >20mmHg between arms
+
+HEART SCORE for NSTEMI risk stratification:
+H - History (2=highly suspicious, 1=moderately, 0=slightly suspicious)
+E - ECG (2=significant ST deviation, 1=LBBB/LVH/repolarisation, 0=normal)
+A - Age (2=≥65, 1=45-64, 0=<45)
+R - Risk factors (2=≥3 or DM, 1=1-2 factors, 0=none known)
+T - Troponin (2=>3× normal, 1=1-3× normal, 0=≤normal)
+
+Score 0-3: Low risk (1.7% MACE) → discharge with outpatient follow-up
+Score 4-6: Moderate risk (12% MACE) → admit, serial troponins at 0h and 3h
+Score 7-10: High risk (50% MACE) → urgent cardiology, invasive strategy
+
+NON-CARDIAC CAUSES (exclude ACS first):
+- Musculoskeletal: Tietze's syndrome, costochondritis (reproduced by palpation)
+- GI: GORD, oesophageal spasm (relieved by antacids/GTN)
+- Pulmonary: pneumothorax (sudden onset, pleuritic, reduced breath sounds)
+- PE: pleuritic chest pain, dyspnoea, haemoptysis, risk factors (Wells score)
+- Aortic dissection: tearing, maximal at onset, radiates to back
+
+INITIAL TREATMENT (ACS confirmed):
+- Aspirin 300mg stat (loading dose)
+- P2Y12 inhibitor (ticagrelor 180mg or clopidogrel 300mg) after cardiology review
+- Anticoagulation: fondaparinux 2.5mg SC (OASIS-5 trial preferred over UFH)
+- Oxygen only if SpO2 <94%
+- GTN sublingual for pain (avoid if SBP <90 or right ventricular infarct)
+- Morphine 2-5mg IV if pain not controlled (monitor for nausea, respiratory depression)

@@ -1,0 +1,52 @@
+Title: Understanding Your Medications — Patient Guide
+Source: Based on NHS Inform, MedlinePlus patient information
+
+BLOOD PRESSURE MEDICINES:
+
+Ramipril / Lisinopril (ACE inhibitors):
+- What they do: relax blood vessels, protect kidneys
+- Take: once daily, with or without food
+- Common side effects: dry cough (common — tell your doctor), dizziness when standing
+- Important: do not take if pregnant; avoid NSAIDs like ibuprofen
+- Tell your doctor if: you develop swelling of lips/face/throat (angioedema — urgent)
+
+Amlodipine (calcium channel blocker):
+- What it does: relaxes blood vessel walls, lowers blood pressure
+- Take: once daily, same time each day
+- Common side effects: ankle swelling, flushing, headache (usually settle after 2 weeks)
+- Important: do not stop suddenly without talking to your doctor
+
+Bisoprolol (beta-blocker):
+- What it does: slows heart rate, reduces the heart's workload
+- Take: once daily in the morning
+- Side effects: tiredness, cold hands/feet, vivid dreams
+- Important: never stop suddenly — taper under medical supervision
+- Tell your doctor if: you have asthma or breathing problems before starting
+
+DIABETES MEDICINES:
+
+Metformin:
+- What it does: reduces sugar production in the liver
+- Take: with meals to reduce stomach upset; start with low dose
+- Side effects: nausea, diarrhoea (usually improve after 2-4 weeks)
+- Important: stop if vomiting or unable to eat/drink (sick day rule)
+- Tell your doctor before: CT scans with dye, any surgery
+
+Empagliflozin / Dapagliflozin (SGLT2 inhibitors):
+- What they do: help kidneys remove excess sugar in urine
+- Benefits: also protect heart and kidneys
+- Side effects: genital thrush (keep area clean and dry), increased urination
+- Important: stop before surgery; drink plenty of water; watch for signs of DKA
+
+Semaglutide / Dulaglutide (GLP-1 injections):
+- What they do: stimulate insulin release, reduce appetite
+- Take: once weekly injection (pen device)
+- Side effects: nausea, vomiting (usually settles); inject in tummy, thigh, or upper arm
+- Benefits: significant weight loss (3-5kg average)
+
+WHEN TO SEEK URGENT HELP:
+- Chest pain or pressure → call 999
+- Sudden severe headache → call 999
+- Blood sugar very low (<4 mmol/L) and not improving with sugar → call 999
+- Swelling of face, lips or throat after starting new medicine → call 999
+- Severe stomach pain with vomiting on SGLT2 inhibitor → call 999 (possible DKA)

@@ -1,0 +1,43 @@
+Title: Comparative Effectiveness of Antihypertensive Medications
+Source: Based on NICE NG136, ONTARGET trial, JNC8 guidelines
+
+Hypertension affects 1.28 billion adults worldwide. First-line agents:
+
+ACE INHIBITORS (ramipril, lisinopril, enalapril):
+- Preferred in: diabetes + CKD (eGFR >30), post-MI, heart failure
+- Mechanism: block angiotensin-converting enzyme, reduce angiotensin II
+- Key side effect: dry cough (10-15%), hyperkalaemia
+- Contraindicated: pregnancy (all trimesters), bilateral renal artery stenosis
+- AVOID combining with ARBs (ONTARGET trial showed increased harm)
+
+ARBs (losartan, valsartan, candesartan):
+- Use when ACE inhibitor cough occurs — same renal protective profile
+- Preferred in: diabetic nephropathy, heart failure with reduced EF
+- Contraindicated: pregnancy, bilateral renal artery stenosis
+
+CALCIUM CHANNEL BLOCKERS (amlodipine, nifedipine):
+- Preferred in: elderly patients, African/Caribbean descent, angina
+- Mechanism: block L-type calcium channels, reduce peripheral vascular resistance
+- Side effects: peripheral oedema, flushing, headache
+- Safe in pregnancy (nifedipine)
+
+THIAZIDE-LIKE DIURETICS (indapamide, chlorthalidone):
+- First-line uncomplicated hypertension
+- Monitor: hypokalaemia, hyponatraemia, hyperuricaemia
+- Preferred in: heart failure, elderly, Black patients
+
+BETA-BLOCKERS (bisoprolol, carvedilol, metoprolol):
+- NOT first-line for uncomplicated hypertension
+- Indicated: post-MI, heart failure with reduced EF, rate control in AF
+- Avoid in: asthma, COPD (use with caution), decompensated heart failure
+
+TREATMENT TARGETS:
+- General: <140/90 mmHg
+- Diabetes or CKD: <130/80 mmHg
+- Elderly (>80 years): <150/90 mmHg (HYVET trial)
+
+COMBINATION THERAPY:
+- Step 1: ACEi/ARB or CCB
+- Step 2: ACEi/ARB + CCB
+- Step 3: Add thiazide-like diuretic
+- Step 4 (resistant HTN): Add spironolactone 25mg (PATHWAY-2 trial)

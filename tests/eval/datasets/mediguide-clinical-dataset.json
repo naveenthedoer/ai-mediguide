@@ -1,0 +1,100 @@
+{
+  "eval_cases": [
+    {
+      "eval_case_id": "hypertension_diabetes_first_line",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "What is the first-line treatment for hypertension in a patient with type 2 diabetes and CKD (eGFR 45)?"
+          }
+        ]
+      },
+      "reference_response": "ACE inhibitors or ARBs are first-line for hypertension in diabetic patients with CKD due to renoprotective effects. Target BP is below 130/80 mmHg. ACEi and ARBs must never be combined. Monitor eGFR and potassium regularly. Both are contraindicated in pregnancy."
+    },
+    {
+      "eval_case_id": "warfarin_amiodarone_interaction",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "A patient on warfarin INR 2.5 is started on amiodarone for AF. What are the risks and what monitoring is needed?"
+          }
+        ]
+      },
+      "reference_response": "Amiodarone is a potent CYP2C9 inhibitor. It significantly increases warfarin plasma levels — INR can double within 2 weeks. Risk is major bleeding. Reduce warfarin dose by 30-50% when starting amiodarone. Check INR within 3-5 days of starting, then weekly for 4 weeks, then monthly. Therapeutic INR for AF is 2.0-3.0."
+    },
+    {
+      "eval_case_id": "metformin_contrast_hold",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "A diabetic patient on metformin 1g BD needs a CT scan with contrast. What should I do about their metformin?"
+          }
+        ]
+      },
+      "reference_response": "Hold metformin on the day of contrast administration and for 48 hours after. Iodinated contrast can cause acute kidney injury which increases metformin-associated lactic acidosis risk. Restart only after confirming renal function is stable. Check eGFR before the procedure."
+    },
+    {
+      "eval_case_id": "chest_pain_stemi_management",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "A 58-year-old male presents with crushing central chest pain radiating to his left arm for 45 minutes. ECG shows ST elevation in leads II, III, aVF. What is your assessment and immediate management?"
+          }
+        ]
+      },
+      "reference_response": "This is an inferior STEMI. Immediate PPCI is required — door-to-balloon time target under 90 minutes. Give aspirin 300mg stat, P2Y12 inhibitor (ticagrelor 180mg), anticoagulation (fondaparinux or UFH), oxygen only if SpO2 below 94%, GTN if BP allows. Activate the cath lab immediately. This is a red flag emergency."
+    },
+    {
+      "eval_case_id": "ssri_tamoxifen_interaction",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "A breast cancer patient on tamoxifen is experiencing depression. Her GP wants to start fluoxetine. Is this safe?"
+          }
+        ]
+      },
+      "reference_response": "Fluoxetine and paroxetine are potent CYP2D6 inhibitors. Tamoxifen requires CYP2D6 conversion to its active metabolite endoxifen. Inhibiting CYP2D6 significantly reduces tamoxifen efficacy, potentially compromising cancer treatment. Use sertraline or citalopram instead — they do not significantly inhibit CYP2D6 and are safe with tamoxifen."
+    },
+    {
+      "eval_case_id": "diabetes_management_overview",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "My doctor told me I have type 2 diabetes and prescribed metformin. What does this mean and what should I do?"
+          }
+        ]
+      },
+      "reference_response": "Type 2 diabetes means your blood sugar is too high because your body does not use insulin properly. Metformin reduces sugar production in your liver and is safe and effective. Take it with food to reduce stomach upset. Lifestyle changes including reducing sugar, regular exercise, and losing weight are essential alongside medication. Check your blood sugar regularly and attend annual kidney, eye, and foot checks. Seek urgent help if blood sugar is very high with vomiting."
+    },
+    {
+      "eval_case_id": "hypertension_step_up_resistant",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "A patient is on ramipril 10mg plus amlodipine 10mg but BP remains 158/94. What is the next step according to guidelines?"
+          }
+        ]
+      },
+      "reference_response": "This is step 3 hypertension management. Add a thiazide-like diuretic — indapamide or chlorthalidone. If BP remains uncontrolled on triple therapy (ACEi + CCB + thiazide), this is resistant hypertension — consider adding spironolactone 25mg (PATHWAY-2 trial evidence). Monitor for hypokalaemia with diuretics and hyperkalaemia with spironolactone."
+    },
+    {
+      "eval_case_id": "sepsis_recognition",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "A 72-year-old nursing home patient has respiratory rate 24, GCS 13, systolic BP 88. She has a UTI. What do you suspect and what is the immediate action?"
+          }
+        ]
+      },
+      "reference_response": "This patient meets qSOFA criteria for high sepsis risk: RR over 22, altered mentation, SBP under 100. Suspected septic shock. Immediate Hour-1 bundle: measure lactate, blood cultures x2 before antibiotics, broad-spectrum IV antibiotics within 1 hour, 30ml/kg IV crystalloid bolus, vasopressors if MAP under 65mmHg. This is a red flag emergency requiring ICU involvement."
+    }
+  ]
+}

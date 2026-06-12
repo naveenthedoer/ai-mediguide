@@ -1,0 +1,32 @@
+Title: High-Risk Drug Interactions in Primary Care
+Source: Based on BNF, MHRA, Stockley's Drug Interactions
+
+METFORMIN:
+- Iodinated contrast media: hold 48h before and after; risk of lactic acidosis via AKI
+- NSAIDs + ACEi/ARB + diuretic (triple whammy): acute kidney injury risk; hold metformin
+- Alcohol (binge drinking): lactic acidosis risk; counsel patients
+
+STATINS (simvastatin, atorvastatin):
+- Amiodarone + simvastatin >20mg: myopathy/rhabdomyolysis risk; cap simvastatin at 20mg
+- Clarithromycin/erythromycin + simvastatin: CYP3A4 inhibition; switch to pravastatin
+- Grapefruit juice: CYP3A4 inhibition; avoid with simvastatin/atorvastatin
+- Fluconazole: rhabdomyolysis risk; suspend statin during short antifungal course
+
+SSRIs (fluoxetine, paroxetine, sertraline):
+- MAOIs: CONTRAINDICATED — serotonin syndrome (14-day washout required)
+- Tramadol: serotonin syndrome risk; avoid combination
+- Lithium: additive serotonin effect; monitor lithium levels
+- Tamoxifen + fluoxetine/paroxetine: CYP2D6 inhibition reduces tamoxifen efficacy
+  → Use sertraline or citalopram instead in breast cancer patients
+
+ACE INHIBITORS + ARBs:
+- NEVER combine (ONTARGET trial): increased AKI, hyperkalaemia, hypotension
+- Potassium-sparing diuretics (spironolactone, amiloride): hyperkalaemia risk
+- NSAIDs: reduce antihypertensive effect + AKI risk
+- Lithium: ACEi reduces lithium excretion; toxic levels possible
+
+ANTIBIOTICS:
+- Quinolones (ciprofloxacin) + antacids/iron: chelation reduces absorption; separate by 2h
+- Metronidazole + alcohol: disulfiram-like reaction (flushing, vomiting, tachycardia)
+- Rifampicin + oral contraceptives: enzyme induction reduces contraceptive efficacy
+- Clarithromycin + simvastatin: see statins above

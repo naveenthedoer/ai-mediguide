@@ -1,0 +1,56 @@
+Title: Pharmacological Management of Type 2 Diabetes Mellitus
+Source: Based on ADA Standards of Care 2024, EMPA-REG, LEADER, DAPA-CKD trials
+
+DIAGNOSIS:
+- HbA1c ≥48 mmol/mol (6.5%) on two occasions
+- Fasting glucose ≥7.0 mmol/L
+- 2hr OGTT glucose ≥11.1 mmol/L
+
+TREATMENT ALGORITHM:
+
+Step 1 — Metformin (first-line unless contraindicated):
+- Contraindicated: eGFR <30, hepatic impairment, contrast procedures
+- Hold 48h before/after iodinated contrast media
+- Side effects: GI upset (take with food), B12 deficiency long-term
+- Dose: start 500mg BD, titrate to 1g BD over 4 weeks
+
+Step 2 — Add second agent based on comorbidities:
+
+IF established CVD or high CV risk:
+- GLP-1 receptor agonist (semaglutide, liraglutide, dulaglutide)
+  → LEADER trial: liraglutide reduced CV death by 22%
+  → Once weekly SC injection (semaglutide) or daily (liraglutide)
+  → Additional benefit: 3-5kg weight loss
+- OR SGLT2 inhibitor (empagliflozin, dapagliflozin, canagliflozin)
+  → EMPA-REG: empagliflozin reduced CV death by 38%
+  → Also reduces hospitalisation for heart failure
+
+IF CKD (eGFR 25-60):
+- Dapagliflozin (DAPA-CKD trial: 39% reduction in renal progression)
+- Avoid SGLT2 inhibitors if eGFR <25 (reduced efficacy)
+
+IF obesity (BMI >30):
+- GLP-1 RA preferred — greatest weight loss benefit
+- Semaglutide 2.4mg weekly (SUSTAIN-6 trial)
+
+IF cost is primary concern:
+- Sulphonylurea (gliclazide MR preferred over glibenclamide)
+- Risk: hypoglycaemia, weight gain
+- Gliclazide MR lower hypoglycaemia risk than older sulphonylureas
+
+MONITORING:
+- HbA1c every 3 months until stable, then 6-monthly
+- Target: <53 mmol/mol (7%) for most; individualise for frail/elderly
+- eGFR annually (or more often if CKD)
+- Urine ACR annually (early nephropathy detection)
+- Annual retinal screening, foot check, BP measurement
+
+SICK DAY RULES:
+- Hold metformin during vomiting/diarrhoea/dehydration
+- Hold SGLT2 inhibitors perioperatively (DKA risk)
+- Never stop insulin in type 1 diabetes
+
+HYPOGLYCAEMIA MANAGEMENT:
+- Mild-moderate: 15-20g fast-acting glucose (glucose tablets, 150ml juice)
+- Severe (unconscious): glucagon IM/SC or IV dextrose 10%
+- Recheck glucose 15 minutes after treatment
